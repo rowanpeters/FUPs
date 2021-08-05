@@ -1,4 +1,4 @@
-##Elicit a response to a series of prompts/questions
+<h2>Talking point</h2>
 
 When you're ready, share with other [participants/learners/name of user] your thoughts on one or more of the following:
 
