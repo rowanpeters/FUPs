@@ -8,4 +8,4 @@
 
 <p><b>Why do this?</b></p>
 
-<p>I store my FUPs on the repo so they're always available to me whereever and whenever.</p> <p>- Rowan</p>
+<p>I store my FUPs on a GitHub repo so that they're always available to me whereever and whenever.</p> <p>- Rowan</p>
