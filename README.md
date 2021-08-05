@@ -4,4 +4,8 @@
 
 <p><b>It's the type of writing that guides and manages expectations and experience.</b></p>
 
-<p>Often similar, but never the same, FUPs provide me with a quick short-hand and increase my writing efficiency and effectiveness during peak production periods. I store them on the FUPs repo so they're available to me whereever and whenever.</p> <p>- Rowan</p>
+<p>Often similar, but never the same, FUPs provide me with a quick short-hand and increases my writing efficiency and effectiveness during peak production periods.</p> 
+
+<p>Why do this?</p>
+
+<p>I store my FUPs on the repo so they're available to me whereever and whenever.</p> <p>- Rowan</p>
